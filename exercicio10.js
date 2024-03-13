@@ -4,11 +4,9 @@ if (n1 >= 1) {
     console.log('valor e positivo', n1); 
 } 
 
-else if (n1 = 0 ){
-    console.log('Você digitou zero');
+else if (n1 < 0 ){
+    console.log('O valor é negativo');
 }    
-
 else {
-    console.log('o valor e negativo', n1);
+    console.log('O valor é zero')
 }
-    
