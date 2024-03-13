@@ -1,4 +1,3 @@
-
 console.log('========================Média Aritmética!====================')
 let n1 = 8
 let n2 = 6
